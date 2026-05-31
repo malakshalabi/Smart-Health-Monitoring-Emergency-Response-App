@@ -1,46 +1,41 @@
-# Smart-Health-Monitoring-Emergency-Response-App
-## Project Type
-UI/UX Design Project
+# Smart Emergency Assistance
 
-## Overview
+UI/UX design prototype for a smart healthcare and emergency assistance mobile application created using Figma.
 
-A mobile healthcare application designed to help users monitor their health status, assess symptoms, receive emergency alerts, and request medical assistance.
+## All Screens
+![All Screens](All%20screens.png)
 
-This project was created using Figma as part of a university course.
+## Welcome Screen
+![Welcome Screen](Welcome%20screen.png)
 
-## Main Features
+## Login Screen
+![Login Screen](Login.png)
 
-- User Authentication
-- Health Monitoring
-- Symptom Assessment
-- Emergency Alert System
-- Ambulance Request
-- Appointment Booking
-- User Feedback
+## Home Screen
+![Home Screen](Home%20screen.png)
 
-## Design Process
+## Risk Assessment Screen
+![Risk Assessment Screen](Risk%20Assessment%20Screen.png)
 
-1. User Research
-2. Wireframing
-3. UI Design
-4. Interactive Prototype
-5. Usability Considerations
+## SOS Screen
+![SOS Screen](SOS%20screen.png)
 
-## Screens
+## Appointment Booking Screen
+![Appointment Booking Screen](Appointment%20booking%20screen.png)
 
-- Splash Screen
-- Login Screen
-- Dashboard
-- Health Assessment
-- Emergency Alert
-- Appointment Booking
-- Settings
-- Feedback
+## Data Confirmation Screen
+![Data Confirmation Screen](Data%20confirmation.png)
+
+## Figma Design
+
+https://www.figma.com/design/1bO8DPNdf0xACgEtxbs0dz/Final-project--Smart-Emergency-Assistance
 
 ## Tools Used
 
 - Figma
+- UI/UX Design
+- Mobile Application Design
 
-## Project Status
+## Academic Project
 
-Completed Academic Project
+This project was developed as part of a university course.
